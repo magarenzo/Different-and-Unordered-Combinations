@@ -1,5 +1,5 @@
 # ncr-script
-Solve ncr using a custom function
+Solve for nCr using a custom function
 
 ---
 
