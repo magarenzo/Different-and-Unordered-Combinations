@@ -14,6 +14,6 @@ nCr(n, r) solves for the the number of different, unordered combinations of *r* 
 
 ## Owner
 
-* Michael A. Agarenzo
+Michael A. Agarenzo
 
-* This was originally created as an assignment in MTH 225 (Statistics and Data Analytics).
+This was originally created as an assignment in MTH 225 (Statistics and Data Analytics)
