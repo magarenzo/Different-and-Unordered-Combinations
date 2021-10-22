@@ -20,6 +20,6 @@ n cannot be less than r
 
 ## Owner
 
-[Michael A.](https://linkedin.com/in/magarenzo)
+[Michael Agarenzo](https://linkedin.com/in/magarenzo)
 
 This was originally created as an assignment in MTH 225 (Statistics and Data Analytics)
